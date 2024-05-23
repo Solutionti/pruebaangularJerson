@@ -1,11 +1,12 @@
 proyecto prueba angular configuracion
-************************************************** 
-1. crear base en mysql base de datos angularprueba
-2. ejecutar el archivo server
+**************************************************
+1. descargar el angular-node.zip
+2. crear base en mysql base de datos angularprueba
+3. ejecutar el archivo server
 * npm run dev
 * npm run typescript
-3. abrir archivo front y  ejecutar npm i
-4. ng serve 
+4. abrir archivo front y  ejecutar npm i
+5. ng serve 
 
 saludos !!! espero podamos trabajar para hacer de la empresa un lugar excelente.
 
